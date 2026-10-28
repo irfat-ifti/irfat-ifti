@@ -1,46 +1,3 @@
-# Hi there, I'm Md. Irfat Uddin Ifti 👋
-
-**WordPress & Frontend Developer**  
-📍 Bogura Sadar, Bogura, Bangladesh  
-📧 [irfatuddinifti@gmail.com](mailto:irfatuddinifti@gmail.com) | 📞 +880 1880-022973 | 🐙 [github.com/irfat-ifti](https://www.google.com/url?sa=E&source=gmail&q=https://github.com/irfat-ifti)
-
-## 🚀 About Me
-
-I build things for the web — **clean, fast, and responsive**. Over the past year at **BoomDevs**, I have gone from learning the fundamentals to shipping real client projects using **React.js, JavaScript, Tailwind CSS, and WordPress**. I care about the small details: smooth interactions, consistent layouts across devices, and code that the next developer can actually read.
-
-- 💼 Currently working as a **Junior Frontend Developer** at **BoomDevs** *(Bogura, Bangladesh)*
-- 🌱 Focused on deepening my **React.js**, **Next.js**, and **JavaScript** skills and growing toward **Full-Stack Development**
-- 🎨 Passionate about mobile-first, pixel-perfect UI, custom WordPress themes/plugins, and web performance optimization
-- 📫 Reach me at **[irfatuddinifti@gmail.com](mailto:irfatuddinifti@gmail.com)**
-
-## 🛠️ Technical Skills
-
-| Category | Technologies & Practices |
-| :--- | :--- |
-| **Frontend Development** | `HTML5` • `CSS3` • `JavaScript (ES6+)` • `React.js` • `jQuery` |
-| **Styling & Frameworks** | `Next.js` • `Tailwind CSS` • `Bootstrap` |
-| **CMS, Backend & No-Code** | `WordPress (Theme & Plugin Dev)` • `PHP` • `Webflow` • `Framer` |
-| **Tools & Core Practices** | `Git` • `GitHub` • `Responsive Design` • `Performance Optimization` • `Cross-Browser Testing` |
-
-## 💼 Work Experience
-
-| Role | Company | Duration | Key Highlights |
-| :--- | :--- | :--- | :--- |
-| **Junior Frontend Developer** | **BoomDevs** *(Bogura, Bangladesh)* | Dec 2025 – Present | • Develop & customize responsive WordPress websites from design mockups to production deployment<br>• Build reusable React.js components & dynamic UI features using JavaScript and jQuery<br>• Apply Tailwind CSS & Bootstrap to create mobile-first, pixel-perfect interfaces<br>• Optimize website performance via lazy loading, code minification & asset optimization<br>• Collaborate with the team on bug fixes, feature implementations & code reviews<br>• Write & maintain PHP code for WordPress theme and plugin customization |
-| **Frontend Developer Intern** | **BoomDevs** *(Bogura, Bangladesh)* | Feb 2025 – Nov 2025 | • Completed structured training in HTML5, CSS3, JavaScript, React.js, Tailwind CSS, Bootstrap, jQuery & PHP<br>• Contributed to real-world WordPress projects including theme customization & plugin development<br>• Implemented responsive layouts and resolved cross-browser compatibility issues<br>• Gained hands-on experience with Git and team-based development workflows<br>• Received an Internship Completion Certificate from BoomDevs |
-
-## 🎓 Education
-
-| Degree / Certificate | Institution | Timeline |
-| :--- | :--- | :--- |
-| **Higher Secondary Certificate (HSC)** | Govt. Shah Sultan College, Bogura | 2024 – 2026 |
-| **Secondary School Certificate (SSC)** | Technical Training Center (T.T.C), Bogura | Completed 2024 |
-
-## 📋 Copy-Paste Ready GitHub Profile Code (`irfat-ifti`) — Fixed Analytics
-
-> **সমাধান করা হয়েছে:** নিচের কোডে `include_all_commits=true` বাদ দেওয়া হয়েছে (যার কারণে *"Could not fetch total commits"* এরর আসছিল)। এখন নিচের পুরো কোডটুকু কপি করে আপনার GitHub-এর `README.md` ফাইলে পেস্ট করে দিন।
-
-```markdown
 <div align="center">
 
 # Hi there, I'm Md. Irfat Uddin Ifti 👋
@@ -127,12 +84,8 @@ I build things for the web — **clean, fast, and responsive**. Over the past ye
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=irfat-ifti&show_icons=true&theme=tokyonight&hide_border=true" alt="Irfat's GitHub Stats" />
+  <img height="175em" src="https://streak-stats.demolab.com?user=irfat-ifti&theme=tokyonight&hide_border=true" alt="Irfat's GitHub Streak" />
   <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfat-ifti&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Irfat's Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=irfat-ifti&theme=tokyonight&hide_border=true" alt="Irfat's GitHub Streak" />
 </div>
 
 <div align="center">
@@ -140,4 +93,3 @@ I build things for the web — **clean, fast, and responsive**. Over the past ye
   <img src="https://komarev.com/ghpvc/?username=irfat-ifti&label=Profile%20Views&color=2563EB&style=flat-square" alt="Profile Views" />
   <p><i>⭐️ From <a href="https://github.com/irfat-ifti"><b>Md. Irfat Uddin Ifti</b></a> — Let's build something clean, fast, and responsive together!</i></p>
 </div>
-```
