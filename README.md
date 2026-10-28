@@ -63,24 +63,6 @@ I build things for the web — **clean, fast, and responsive**. Over the past ye
 
 ---
 
-## 💼 Work Experience
-
-| Role | Company | Duration | Key Highlights |
-| :--- | :--- | :--- | :--- |
-| **Junior Frontend Developer** | **BoomDevs** *(Bogura, Bangladesh)* | Dec 2025 – Present | • Develop & customize responsive WordPress websites from design mockups to production<br>• Build reusable React.js components & dynamic UI features with JS/jQuery<br>• Create mobile-first, pixel-perfect interfaces using Tailwind CSS & Bootstrap<br>• Optimize performance via lazy loading, code minification & asset optimization<br>• Write & maintain PHP code for custom WordPress themes and plugins |
-| **Frontend Developer Intern** | **BoomDevs** *(Bogura, Bangladesh)* | Feb 2025 – Nov 2025 | • Completed intensive training in HTML5, CSS3, JS, React.js, Tailwind CSS, Bootstrap, jQuery & PHP<br>• Contributed to client WordPress theme customization & plugin development<br>• Implemented responsive layouts, cross-browser fixes & Git team workflows |
-
----
-
-## 🎓 Education
-
-| Degree / Certificate | Institution | Timeline |
-| :--- | :--- | :--- |
-| **Higher Secondary Certificate (HSC)** | Govt. Shah Sultan College, Bogura | 2024 – 2026 |
-| **Secondary School Certificate (SSC)** | Technical Training Center (T.T.C), Bogura | Completed 2024 |
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
