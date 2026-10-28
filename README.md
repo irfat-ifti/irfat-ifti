@@ -1,16 +1,143 @@
-## Hi there 👋
+# Hi there, I'm Md. Irfat Uddin Ifti 👋
 
-<!--
-**irfat-ifti/irfat-ifti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**WordPress & Frontend Developer**  
+📍 Bogura Sadar, Bogura, Bangladesh  
+📧 [irfatuddinifti@gmail.com](mailto:irfatuddinifti@gmail.com) | 📞 +880 1880-022973 | 🐙 [github.com/irfat-ifti](https://www.google.com/url?sa=E&source=gmail&q=https://github.com/irfat-ifti)
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build things for the web — **clean, fast, and responsive**. Over the past year at **BoomDevs**, I have gone from learning the fundamentals to shipping real client projects using **React.js, JavaScript, Tailwind CSS, and WordPress**. I care about the small details: smooth interactions, consistent layouts across devices, and code that the next developer can actually read.
+
+- 💼 Currently working as a **Junior Frontend Developer** at **BoomDevs** *(Bogura, Bangladesh)*
+- 🌱 Focused on deepening my **React.js**, **Next.js**, and **JavaScript** skills and growing toward **Full-Stack Development**
+- 🎨 Passionate about mobile-first, pixel-perfect UI, custom WordPress themes/plugins, and web performance optimization
+- 📫 Reach me at **[irfatuddinifti@gmail.com](mailto:irfatuddinifti@gmail.com)**
+
+## 🛠️ Technical Skills
+
+| Category | Technologies & Practices |
+| :--- | :--- |
+| **Frontend Development** | `HTML5` • `CSS3` • `JavaScript (ES6+)` • `React.js` • `jQuery` |
+| **Styling & Frameworks** | `Next.js` • `Tailwind CSS` • `Bootstrap` |
+| **CMS, Backend & No-Code** | `WordPress (Theme & Plugin Dev)` • `PHP` • `Webflow` • `Framer` |
+| **Tools & Core Practices** | `Git` • `GitHub` • `Responsive Design` • `Performance Optimization` • `Cross-Browser Testing` |
+
+## 💼 Work Experience
+
+| Role | Company | Duration | Key Highlights |
+| :--- | :--- | :--- | :--- |
+| **Junior Frontend Developer** | **BoomDevs** *(Bogura, Bangladesh)* | Dec 2025 – Present | • Develop & customize responsive WordPress websites from design mockups to production deployment<br>• Build reusable React.js components & dynamic UI features using JavaScript and jQuery<br>• Apply Tailwind CSS & Bootstrap to create mobile-first, pixel-perfect interfaces<br>• Optimize website performance via lazy loading, code minification & asset optimization<br>• Collaborate with the team on bug fixes, feature implementations & code reviews<br>• Write & maintain PHP code for WordPress theme and plugin customization |
+| **Frontend Developer Intern** | **BoomDevs** *(Bogura, Bangladesh)* | Feb 2025 – Nov 2025 | • Completed structured training in HTML5, CSS3, JavaScript, React.js, Tailwind CSS, Bootstrap, jQuery & PHP<br>• Contributed to real-world WordPress projects including theme customization & plugin development<br>• Implemented responsive layouts and resolved cross-browser compatibility issues<br>• Gained hands-on experience with Git and team-based development workflows<br>• Received an Internship Completion Certificate from BoomDevs |
+
+## 🎓 Education
+
+| Degree / Certificate | Institution | Timeline |
+| :--- | :--- | :--- |
+| **Higher Secondary Certificate (HSC)** | Govt. Shah Sultan College, Bogura | 2024 – 2026 |
+| **Secondary School Certificate (SSC)** | Technical Training Center (T.T.C), Bogura | Completed 2024 |
+
+## 📋 Copy-Paste Ready GitHub Profile Code (`irfat-ifti`) — Fixed Analytics
+
+> **সমাধান করা হয়েছে:** নিচের কোডে `include_all_commits=true` বাদ দেওয়া হয়েছে (যার কারণে *"Could not fetch total commits"* এরর আসছিল)। এখন নিচের পুরো কোডটুকু কপি করে আপনার GitHub-এর `README.md` ফাইলে পেস্ট করে দিন।
+
+```markdown
+<div align="center">
+
+# Hi there, I'm Md. Irfat Uddin Ifti 👋
+
+### **WordPress & Frontend Developer**
+📍 Bogura Sadar, Bogura, Bangladesh
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=WordPress+%26+Frontend+Developer;Building+Clean%2C+Fast+%26+Responsive+Web+Apps;React.js+%7C+Next.js+%7C+Tailwind+CSS+%7C+WordPress;Growing+Toward+Full-Stack+Development)](https://git.io/typing-svg)
+
+<p align="center">
+  <a href="mailto:irfatuddinifti@gmail.com">
+    <img src="https://img.shields.io/badge/Email-irfatuddinifti%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/irfat-ifti">
+    <img src="https://img.shields.io/badge/GitHub-irfat--ifti-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="tel:+8801880022973">
+    <img src="https://img.shields.io/badge/WhatsApp-+8801880022973-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
+  </a>
+</p>
+
+</div>
+
+---
+
+## 🚀 About Me
+
+I build things for the web — **clean, fast, and responsive**. Over the past year at **BoomDevs**, I have gone from learning the fundamentals to shipping real client projects using **React.js, JavaScript, Tailwind CSS, and WordPress**. I care about the small details: smooth interactions, consistent layouts across devices, and code that the next developer can actually read.
+
+- 💼 Currently working as a **Junior Frontend Developer** at **BoomDevs** *(Bogura, Bangladesh)*
+- 🌱 Currently focused on deepening my **React.js**, **Next.js**, and **JavaScript** skills and growing toward **Full-Stack Development**
+- 🎨 Passionate about mobile-first, pixel-perfect UI, custom WordPress themes/plugins, and web performance optimization
+- 📫 Reach me at **[irfatuddinifti@gmail.com](mailto:irfatuddinifti@gmail.com)**
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### **Frontend Development**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript_(ES6+)-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React.js](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+
+### **Styling & Frameworks**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### **CMS, Backend & No-Code**
+![WordPress](https://img.shields.io/badge/WordPress_(Theme_%26_Plugin)-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+
+### **Tools & Core Practices**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Responsive Design](https://img.shields.io/badge/Responsive_Design-0F172A?style=for-the-badge)
+![Performance Optimization](https://img.shields.io/badge/Performance_Optimization-16A34A?style=for-the-badge)
+![Cross-Browser Testing](https://img.shields.io/badge/Cross--Browser_Testing-2563EB?style=for-the-badge)
+
+---
+
+## 💼 Work Experience
+
+| Role | Company | Duration | Key Highlights |
+| :--- | :--- | :--- | :--- |
+| **Junior Frontend Developer** | **BoomDevs** *(Bogura, Bangladesh)* | Dec 2025 – Present | • Develop & customize responsive WordPress websites from design mockups to production<br>• Build reusable React.js components & dynamic UI features with JS/jQuery<br>• Create mobile-first, pixel-perfect interfaces using Tailwind CSS & Bootstrap<br>• Optimize performance via lazy loading, code minification & asset optimization<br>• Write & maintain PHP code for custom WordPress themes and plugins |
+| **Frontend Developer Intern** | **BoomDevs** *(Bogura, Bangladesh)* | Feb 2025 – Nov 2025 | • Completed intensive training in HTML5, CSS3, JS, React.js, Tailwind CSS, Bootstrap, jQuery & PHP<br>• Contributed to client WordPress theme customization & plugin development<br>• Implemented responsive layouts, cross-browser fixes & Git team workflows |
+
+---
+
+## 🎓 Education
+
+| Degree / Certificate | Institution | Timeline |
+| :--- | :--- | :--- |
+| **Higher Secondary Certificate (HSC)** | Govt. Shah Sultan College, Bogura | 2024 – 2026 |
+| **Secondary School Certificate (SSC)** | Technical Training Center (T.T.C), Bogura | Completed 2024 |
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=irfat-ifti&show_icons=true&theme=tokyonight&hide_border=true" alt="Irfat's GitHub Stats" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfat-ifti&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Irfat's Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=irfat-ifti&theme=tokyonight&hide_border=true" alt="Irfat's GitHub Streak" />
+</div>
+
+<div align="center">
+  <br />
+  <img src="https://komarev.com/ghpvc/?username=irfat-ifti&label=Profile%20Views&color=2563EB&style=flat-square" alt="Profile Views" />
+  <p><i>⭐️ From <a href="https://github.com/irfat-ifti"><b>Md. Irfat Uddin Ifti</b></a> — Let's build something clean, fast, and responsive together!</i></p>
+</div>
+```
